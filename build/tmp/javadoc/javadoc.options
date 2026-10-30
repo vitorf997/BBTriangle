@@ -1,7 +1,0 @@
--classpath 'C:\\Users\\vitor.fernandes\\Documents\\LEI\\ESII\\BBTriangle\\build\\classes\\java\\main;C:\\Users\\vitor.fernandes\\Documents\\LEI\\ESII\\BBTriangle\\build\\resources\\main'
--quiet 
--d 'C:\\Users\\vitor.fernandes\\Documents\\LEI\\ESII\\BBTriangle\\build\\docs\\javadoc'
--windowtitle 'BBTriangle 1.0-SNAPSHOT API'
--doctitle 'BBTriangle 1.0-SNAPSHOT API'
--notimestamp 
-'C:\\Users\\vitor.fernandes\\Documents\\LEI\\ESII\\BBTriangle\\src\\main\\java\\triangle\\Triangle.java'
